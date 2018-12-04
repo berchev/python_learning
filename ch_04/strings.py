@@ -17,3 +17,8 @@ print('She said, "That' + "'" + 's hard to read."')
 
 print(len('\''))
 print(len('it\'s'))
+
+print('one\ttwo\nthree\tfour')
+
+radius = 5
+print("Diameter of the circle = ", radius * 2, "cm")
