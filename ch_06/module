@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+import math
+
+print(math.sqrt(9))
+
+radius = 5
+print('area is', math.pi * radius ** 2)
